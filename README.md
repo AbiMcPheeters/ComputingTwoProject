@@ -1,3 +1,2 @@
 # ComputingTwoProject
-.ignore
-R
+
